@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Shaaban 👋
+# Hi there, I'm Ahmed Sherif 👋
 
 <div align="center">
   
@@ -99,7 +99,7 @@ Android app for seamless Bluetooth communication with Arduino devices using HC-0
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-shaaban)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-ahmed-sherif)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedshaaban@example.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedSh10)
   
